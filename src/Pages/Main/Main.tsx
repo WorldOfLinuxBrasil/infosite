@@ -1,10 +1,10 @@
 import React from 'react';
 import './Main.scss';
-
+import Background from './Backround/Background';
 function Main(){
     return(
-        <div>
-            <h1>Oi</h1>
+        <div className='Main'>
+          <Background />  
         </div>
     );
 }
