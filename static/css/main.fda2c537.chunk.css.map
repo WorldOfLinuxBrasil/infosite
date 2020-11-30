@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,KACE,qBAHM","file":"main.fda2c537.chunk.css","sourcesContent":["$color: blue;\n\nbody {\n  background-color: $color;\n}"]}
