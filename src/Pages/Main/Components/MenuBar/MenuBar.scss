@@ -1,0 +1,17 @@
+$menu-width: 170%;
+$backgorund-color: #171618;
+$color: rgb(230, 18, 230);
+#nav {
+    width: $menu-width;
+    float: center;
+    margin: 0 0 0 0;
+    padding: 0;
+    border-color: $color;
+    border-style: solid;
+    list-style: none;} 
+#nav li a  {
+        display: block;
+        padding: 8px 15px;
+        text-decoration: none;
+        font-weight: bold;
+        color: $color}
